@@ -10,7 +10,10 @@ public class Login {
 		System.setProperty("webdriver.chrome.driver", "D:\\automation testing\\driver\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://opensource-demo.orangehrmlive.com/");
-                system.out.println("update from github");
+		
+		
+		System.out.println("hi");
+                
 		
 		
 	}
