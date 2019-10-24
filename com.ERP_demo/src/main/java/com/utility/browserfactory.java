@@ -9,7 +9,7 @@ public class browserfactory {
 	public static WebDriver driver ;
 	@BeforeSuite
 	public void browserlaunch() {
-		System.setProperty("webdriver.chrome.driver", "D:\\automation testing\\driver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
 		driver=new ChromeDriver();
 		driver.get("https://opensource-demo.orangehrmlive.com/");
 

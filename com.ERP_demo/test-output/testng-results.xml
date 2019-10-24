@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="19" started-at="2019-10-24T12:28:44Z" finished-at="2019-10-24T12:28:44Z">
+  <suite name="Suite" duration-ms="21" started-at="2019-10-24T12:35:44Z" finished-at="2019-10-24T12:35:44Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="19" started-at="2019-10-24T12:28:44Z" finished-at="2019-10-24T12:28:44Z">
+    <test name="Test" duration-ms="21" started-at="2019-10-24T12:35:44Z" finished-at="2019-10-24T12:35:44Z">
       <class name="com.testcase.Login">
-        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:com.testcase.Login@6f7fd0e6]" name="browserlaunch" is-config="true" duration-ms="8735" started-at="2019-10-24T17:58:36Z" finished-at="2019-10-24T17:58:44Z">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:com.testcase.Login@6f7fd0e6]" name="browserlaunch" is-config="true" duration-ms="10156" started-at="2019-10-24T18:05:34Z" finished-at="2019-10-24T18:05:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserlaunch -->
-        <test-method status="PASS" signature="startapllication()[pri:0, instance:com.testcase.Login@6f7fd0e6]" name="startapllication" duration-ms="5" started-at="2019-10-24T17:58:44Z" finished-at="2019-10-24T17:58:44Z">
+        <test-method status="PASS" signature="startapllication()[pri:0, instance:com.testcase.Login@6f7fd0e6]" name="startapllication" duration-ms="5" started-at="2019-10-24T18:05:44Z" finished-at="2019-10-24T18:05:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startapllication -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testcase.Login@6f7fd0e6]" name="teardown" is-config="true" duration-ms="604" started-at="2019-10-24T17:58:44Z" finished-at="2019-10-24T17:58:45Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testcase.Login@6f7fd0e6]" name="teardown" is-config="true" duration-ms="679" started-at="2019-10-24T18:05:44Z" finished-at="2019-10-24T18:05:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
